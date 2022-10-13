@@ -1,4 +1,3 @@
-#assignment for internship
 CREATE TABLE City (Id number,Name varchar2(17), Pincode varchar2(6), District varchar2(20), Population int );
 
 INSERT INTO City VALUES ('2191','Kanpur',  133452,'Kanpur' , 5897890 );  
